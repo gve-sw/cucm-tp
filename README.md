@@ -9,12 +9,10 @@ The project is organized in a 3 step process, notably:
 You will find the corresponding folders for each step.
 
 
-
 ###Team Members
 * Kiara Montalvo
 * Annett Samuels
 * Eduardo Miralles
-
 
 
 ###Coaches/Sponsors
@@ -24,17 +22,14 @@ You will find the corresponding folders for each step.
 * Rika Patawaran
 
 
-
 ##Products in this project
 * [CUCM](http://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html)
 * [Telepresence Endpoints - including DX](http://www.cisco.com/c/en/us/products/collaboration-endpoints/index.html)
 
 
-
 ###API Documentation
 * [CUCM Admin AXL/SOAP](https://developer.cisco.com/site/axl/)
 * [Telepresence Endpoints In-Room controls](http://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce81/sx-mx-in-room-control-guide-ce81.pdf)
-
 
 
 ###Sample Application - coming soon
