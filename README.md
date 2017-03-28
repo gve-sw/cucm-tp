@@ -1,4 +1,4 @@
-##ASE AMERICAS Team 3 - Software Project Q3FY17
+## ASE AMERICAS Team 3 - Software Project Q3FY17
 This repository contains code for the software project of ASE AMERICAS Team 3.
 
 The project is organized in a 3 step process, notably:
@@ -9,28 +9,28 @@ The project is organized in a 3 step process, notably:
 You will find the corresponding folders for each step.
 
 
-###Team Members
+### Team Members
 * Kiara Montalvo
 * Annett Samuels
 * Eduardo Miralles
 
 
-###Coaches/Sponsors
+### Coaches/Sponsors
 * Aleksey Orlov
 * Clemens Geyer
 * Gerardo Chaves
 * Rika Patawaran
 
 
-##Products in this project
+### Products in this project
 * [CUCM](http://www.cisco.com/c/en/us/products/unified-communications/unified-communications-manager-callmanager/index.html)
 * [Telepresence Endpoints - including DX](http://www.cisco.com/c/en/us/products/collaboration-endpoints/index.html)
 
 
-###API Documentation
+### API Documentation
 * [CUCM Admin AXL/SOAP](https://developer.cisco.com/site/axl/)
 * [Telepresence Endpoints In-Room controls](http://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce81/sx-mx-in-room-control-guide-ce81.pdf)
 
 
-###Sample Application - coming soon
+### Sample Application - coming soon
 Coming soon
