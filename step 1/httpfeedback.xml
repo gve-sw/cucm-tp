@@ -1,0 +1,9 @@
+<Command>
+ 	<HttpFeedback>
+ 		<Register command='True'>
+ 			<FeedbackSlot>1</FeedbackSlot>
+ 			<ServerUrl>http://127.0.0.1:5000/testing</ServerUrl>
+ 			<Expression item='1'>/Event/UserInterface/Extensions/Widget/Action</Expression>
+ 		</Register>
+ 	</HttpFeedback>
+</Command>
