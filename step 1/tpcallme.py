@@ -17,7 +17,7 @@ def waitforclick():
 	response = requests.request("GET", url, headers=headers)
 	response2 = requests.get(url, headers=headers)
 
-	print response2 
+	print response2
 
 	file = open("out.xml", "w")
 	file.write(response.content)
@@ -31,5 +31,5 @@ def callme():
 	headers = {'Content-Type': 'text/xml', 'Authorization': 'Basic c2FsZXM6Y29sYWI='}
 	response = requests.request("POST", url, data=xml_string, headers=headers)
 
-
-callme()
+if __name__ == '__main__':
+	callme()
