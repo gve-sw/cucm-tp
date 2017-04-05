@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.cisco.com/AXL/API/10.5">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ns:getPhone>
+            <name>SEP000C29E85240</name>
+        </ns:getPhone>
+    </soapenv:Body>
+</soapenv:Envelope>
