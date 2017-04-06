@@ -1,0 +1,6 @@
+<Command>
+	<Dial command="True">
+		<Number>annesamu@cisco.com</Number>
+		<Protocol>Sip</Protocol>
+	</Dial>
+</Command>
