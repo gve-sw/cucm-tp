@@ -1,0 +1,20 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://www.cisco.com/AXL/API/10.5">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:updateDeviceProfile>
+         <name>SEP00059A3C7A00</name>
+         <speeddials>
+            <speeddial>
+               <dirn>19842164843</dirn>
+               <label>Kiara</label>
+               <index>1</index>
+            </speeddial>
+            <speeddial>
+               <dirn>2009</dirn>
+               <label>Eduardo</label>
+               <index>2</index>
+            </speeddial>
+         </speeddials>
+      </ns:updateDeviceProfile>
+   </soapenv:Body>
+</soapenv:Envelope>
