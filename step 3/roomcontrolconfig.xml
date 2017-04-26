@@ -1,0 +1,27 @@
+﻿<Extensions>
+  <Version>1.3</Version>
+  <Panel>
+    <Icon>Concierge</Icon>
+    <Type>Home</Type>
+    <Page>
+      <Name>Quick Dials</Name>
+      <Row>
+        <Name>Security</Name>
+        <Widget>
+          <WidgetId>security</WidgetId>
+          <Type>Button</Type>
+          <Options>size=1;icon=phone</Options>
+        </Widget>
+      </Row>
+      <Row>
+        <Name>Coffee</Name>
+        <Widget>
+          <WidgetId>coffee</WidgetId>
+          <Type>Button</Type>
+          <Options>size=1;icon=phone</Options>
+        </Widget>
+      </Row>
+    </Page>
+    <Name>Speed Dials</Name>
+  </Panel>
+</Extensions>
